@@ -1,0 +1,100 @@
+@media (max-width: 400px) {
+#d1{
+    border: 2px solid rgb(229, 255, 0);
+    background-color: blueviolet;
+    width: 100px;
+    height: 55px;
+    top: 15%;
+    position: absolute;
+}
+#d2 {
+    border: 2px solid rgb(229, 255, 0);
+    background-color: blueviolet;
+    border-radius: 28%;
+    width: 100px;
+    height: 55px;
+    left: 34%;
+    top: 15%;
+    position: absolute;
+}
+#d3 {
+    border: 2px solid rgb(229, 255, 0);
+    background-color: blueviolet;
+    border-radius: 58%;
+    width: 100px;
+    height: 55px;
+    position: absolute;
+    top: 15%;
+    left: 66%;
+}
+#d4 {
+    border: 2px solid rgb(229, 255, 0);
+    background-color: blueviolet;
+    border-bottom-right-radius: 25%;
+    border-top-left-radius: 25%;
+    width: 100px;
+    height: 55px;
+    left: 96%;
+    top: 15%;
+    position: absolute;
+}
+#d5 {
+    border: 2px solid rgb(229, 255, 0);
+    background-color: blueviolet;
+    border-top-left-radius: 90%;
+    width: 100px;
+    height: 55px;
+    top: 26%;
+    position: absolute;
+}
+#d6 {
+    border: 2px solid rgb(229, 255, 0);
+    background-color: blueviolet;
+    border-radius: 20%;
+    width: 100px;
+    height: 55px;
+    left: 34%;
+    top: 26%;
+    position: absolute; 
+}
+#d7 {
+    border: 2px solid rgb(229, 255, 0);
+    background-color: blueviolet;
+    border-top-left-radius: 90%;
+    border-bottom-right-radius: 90%;
+    width: 100px;
+    height: 55px;
+    left: 66%;
+    top: 26%;
+    position: absolute; 
+}
+#d8 {
+    border: 2px solid rgb(229, 255, 0);
+    background-color:blueviolet;
+    border-top-right-radius: 35%;
+    border-top-left-radius: 35%;
+    width: 100px;
+    height: 55px;
+    left: 96%;
+    top: 26%;
+    position: absolute;
+}
+#head {
+    width: 540px;
+    height: 90px;
+    background-color: deepskyblue;
+}
+#headh1 {
+    color: white;
+    top: 1%;
+    left: 5%;
+    position: absolute;
+}
+#last {
+    width: 540px;
+    height: 30px;
+    background-color: deepskyblue;
+    top: 36%;
+    position: absolute;
+}
+}
